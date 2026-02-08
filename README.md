@@ -32,7 +32,7 @@ L'objectif de ce POC est de démontrer **ma vision de l'interface utilisateur** 
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/SmartSite-AR-POC.git
+git clone https://github.com/Alioune930/SmartSite-AR-POC.git
 cd SmartSite-AR-POC
 
 2. Installer les dépendances backend :
@@ -90,4 +90,4 @@ LocalStorage pour mocker les sessions et l’historique sans base de données.
 
 Design minimaliste et UX orientée BTP : couleurs sobres, instructions claires, overlay pour les détections.
 
-L’objectif n’est pas de livrer une application complète mais de montrer ma vision d’interface et mes choix techniques pour un produit mobile futur
+L’objectif n’est pas de livrer une application complète mais de montrer ma vision d’interface et mes choix techniques pour un produit mobile futur.
