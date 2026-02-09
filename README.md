@@ -1,5 +1,8 @@
 # SmartSite AR - Proof of Concept
 
+## Auteur
+TIENDREBEOGO Alioune
+
 ## Vision
 
 SmartSite AR est un **prototype d'application web** destiné à la **surveillance de structures BTP via détection visuelle**.  
@@ -27,7 +30,7 @@ L'objectif de ce POC est de démontrer **ma vision de l'interface utilisateur** 
 
 ---
 
-## Installation
+## Installation et test
 
 1. Cloner le dépôt :
 
