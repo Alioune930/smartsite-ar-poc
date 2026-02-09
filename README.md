@@ -66,10 +66,11 @@ cd ..
 cd backend
 node server.js
 
--- Démarrer le frontend :
+
+-- Démarrer le frontend (Ouvrir un deuxième terminal):
 ```bash
 
-cd ../frontend
+cd frontend
 npm run dev
 
 5. Ouvrir l’application dans le navigateur :
