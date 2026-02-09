@@ -33,13 +33,14 @@ L'objectif de ce POC est de démontrer **ma vision de l'interface utilisateur** 
 
 ```bash
 git clone https://github.com/Alioune930/SmartSite-AR-POC.git
+
 cd SmartSite-AR-POC
 
 2. Installer les dépendances backend :
 
 ```bash
 
-cd ../frontend
+cd backend
 npm install
 
 3. Installer les dépendances frontend
@@ -51,6 +52,11 @@ npm install
 
 4. Lancement
 
+-- Retour à la racine du projet -->
+```bash
+
+cd ..
+
 -- Démarrer le backend (API Fake IA) :
 ```bash
 
@@ -60,7 +66,7 @@ node server.js
 -- Démarrer le frontend :
 ```bash
 
-cd frontend
+cd ../frontend
 npm run dev
 
 5. Ouvrir l’application dans le navigateur :
